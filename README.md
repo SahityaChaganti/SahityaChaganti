@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sahitya Chaganti
+# 👋 Hi, I'm Sahitya
 
 🎨 **Frontend / UI Developer** with 6+ years of experience building clean, responsive, and user-friendly web interfaces.  
 🌱 Currently exploring **React**, **Next.js**, and **AI tools for UI development** to stay ahead in modern frontend engineering.  
