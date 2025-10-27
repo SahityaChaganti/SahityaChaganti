@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 **About Me**
+## 💫  **About Me**
 - 💼 Working as a **UI Developer**
 - 🧒 Proud mom of a curious 2-year-old
 - 🌿 Believer in continuous learning and mindful balance between career and family
